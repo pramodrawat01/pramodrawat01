@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/fc98850188e13707f28e22173222d60289b3b017
 <p align="left">
 <a href="https://twitter.com/rawatpramod392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rawatpramod392" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramod singh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod singh rawat" height="30" width="40" /></a>
-<a href="https://instagram.com/pramodrawat121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodrawat121" height="30" width="40" /></a>
+<a href="https://instagram.com/pramod.rawat.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodrawat121" height="30" width="40" /></a>
 <a href="https://discord.gg/pramodsingh4295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pramodsingh4295" height="30" width="40" /></a>
 </p>
 
