@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pramod Singh Rawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="code" width="400"
 src="https://camo.githubusercontent.com/fc98850188e13707f28e22173222d60289b3b017c04c4af67871a7204988d5b3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966">
 
-- 🌱 I’m currently learning **JavaScript, will dive deep into React and backend development soon.**
+- 🌱 I'm a **Full-Stack Developer** who loves building clean, scalable, and user-focused products.
 
-- 💬 Ask me about **tailwind, JavaScript, Version Controls**
+- 💬 Currently deep-diving into **modern JavaScript, React, and backend development** to level up my craft.
 
 - 📫 How to reach me **rawatpramod392@gmail.com**
 
